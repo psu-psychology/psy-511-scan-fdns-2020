@@ -8,10 +8,15 @@ navbar:
       href: about.html
     - text: "Schedule"
       href: schedule.html
+    - menu: "Lectures"
     - text: "Evaluation"
       href: evaluation.html
     - text: "Assignments"
       href: assignments.html
+    - text: "Policies"
+      href: policies.html
+    - text: "Values"
+      href: values.html
   right:
     - text: "Site info"
       href: site-info.html
