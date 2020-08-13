@@ -1,0 +1,27 @@
+name: "PSY 511.001 Fall 2020"
+navbar:
+  title: "PSY 511"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Assignments"
+      href: assignments.html
+  right:
+    - text: "Site info"
+      href: site-info.html
+    - icon: ion-social-github
+      href: https://github.com/psu-psychology/psy-511-scan-fdns-2020
+output_dir: "docs"
+css: site.css
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html

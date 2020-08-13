@@ -1,0 +1,45 @@
+---
+title: "Evaluation"
+---
+
+PSY 511 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                      | % of Grade |
+|---------------------|------------------------------|-------|
+| Quizzes             | 10 pts * 3 quizzes = 30      | 33    |
+| Participation       | 15 wks * 2 pts/wk = 30       | 33    |
+| Paper               | 30 pts                       | 33    |
+| **TOTAL**           | **90**                      | **100** |
+
+### Grading Scheme
+
+| Points  | Percent | Grade |
+|---------|---------|-------|
+| 100+    | 100+    | A+    |
+| 94-100  | 94-99   | A     |
+| 90-93   | 90-93   | A-    |
+| 87-89   | 87-89   | B+    |
+| 84-86   | 84-86   | B     |
+| 80-83   | 80-83   | B-    |
+| 77-79   | 77-79   | C+    |
+| 70-76   | 70-76   | C     |
+| 60-69   | 60-69   | D     |
+| <59     | <59     | F     |
+
+## Paper
+
+Please write a critical review in the style of a [Behavioral and Brain Sciences (BBS)]https://www.cambridge.org/core/journals/behavioral-and-brain-sciences) commentary.
+The target of your review could be a published article in BBS or an article published in another journal.
+Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries.
+Typically, a BBS commentary is [restricted to 1,000 words](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/information/instructions-contributors), but you have latitude to write up to 2,500 words. 
+
+**Do's**
+
+- Always put your last name and first name in the file name of all documents you submit. For example, `gilmore-rick-psy-511-2018-final-paper.docx` works fine.
+- Submit your paper as a MS Word document or as a Google drive document that I can comment on using the track changes feature.
+- Include a cover page and title. Make sure to add page numbers.
+- Unpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.
+- Include all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.
+- Include author-date citations in the text.
+- Use double-spacing.
+- Run spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices.

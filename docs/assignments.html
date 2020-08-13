@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Assignments</title>
+
+<script src="site_libs/header-attrs-2.2/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSY 511</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="evaluation.html">Evaluation</a>
+</li>
+<li>
+  <a href="assignments.html">Assignments</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="site-info.html">Site info</a>
+</li>
+<li>
+  <a href="https://github.com/psu-psychology/psy-511-scan-fdns-2020">
+    <span class="ion ion-social-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Assignments</h1>
+
+</div>
+
+
+<!-- ## Introductory assignment (due 5:00 pm Tuesday, August 28, 2018) -->
+<!-- This assignment takes the place of "participation" credit for Weeks 1 and 2. It is worth four points, two each for each of the two questions. I prefer that you submit your response as an email or as a text file with "PSY 511 Assignment 1" in the subject line. If you submit a MS Word (.docx) document, please include your name in the file name, e.g. if I were submitting an answer, I would use `psy-511-assignment-1-gilmore.docx`. -->
+<!-- I plan to post your answers to the first question on the course website so that we can discuss similarities and differences among our choices. So, please write your answers with that in mind. -->
+<!-- ### 1. Pick two papers you want to read and (better) understand (2 points) -->
+<!-- - Provide APA formatted citation (with DOIs) -->
+<!-- - Indicate three concepts/terms from these papers that you are especially interested in understanding -->
+<!-- ### 2. Choose a behavior or mental state you want to (better) understand (2 points) -->
+<!-- - Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved. -->
+<!--   - When thinking about *outputs* make sure to distinguish between *behaviors* (e.g., movements, facial expressions, vocalizations) and *physiological states* (e.g., changes in heart rate, hormone concentrations in the blood, etc.) -->
+<div id="resource-write-up" class="section level2">
+<h2>Resource write-up</h2>
+<p>Please write-up a review of i) one of the references you discuss in your symposium presentation or ii) another paper of your choosing in the style of a <em>Neuron</em> “Preview” or a <em>Nature</em> “Research Highlights” paper (<a href="https://www.nature.com/search?article_type=research-highlights&amp;order=date_desc">example</a>).</p>
+<p>Your review should be 2,000-2,500 words (6-10 pp in length, double-spaced) and is due by <strong>noon on Wednesday, December 18, 2019</strong>.</p>
+<p>Here are some examples to get your creative juices flowing:</p>
+<p>Bray, N. (2019). Foreseeing compulsion. <em>Nature Reviews Neuroscience</em>. Retrieved from <a href="http://dx.doi.org/10.1038/s41583-019-0256-8" class="uri">http://dx.doi.org/10.1038/s41583-019-0256-8</a>. <a href="pdf/s41583-019-0256-8.pdf">PDF</a></p>
+<p>Lewis, S. (2019). A good stretch regulates satiety. <em>Nature Reviews Neuroscience</em>. Retrieved from <a href="http://dx.doi.org/10.1038/s41583-019-0252-z" class="uri">http://dx.doi.org/10.1038/s41583-019-0252-z</a>. <a href="pdf/s41583-019-0252-z.pdf">PDF</a></p>
+<p>Gupta, P. K., &amp; Murphy, T. H. (2019). Cortex-wide computations in complex decision making in mice. <em>Neuron</em>, <em>104</em>(4), 631–633. Retrieved from <a href="http://dx.doi.org/10.1016/j.neuron.2019.10.043" class="uri">http://dx.doi.org/10.1016/j.neuron.2019.10.043</a>. <a href="pdf/PIIS0896627319309638.pdf">PDF</a></p>
+<p>Mazade, R., &amp; Alonso, J. M. (2019). Synergy in cortical networks. <em>Neuron</em>, <em>104</em>(2), 184–185. Retrieved from <a href="http://dx.doi.org/10.1016/j.neuron.2019.09.041" class="uri">http://dx.doi.org/10.1016/j.neuron.2019.09.041</a>. <a href="pdf/PIIS089662731930844X.pdf">PDF</a></p>
+</div>
+<div id="planning-for-the-student-symposium" class="section level2">
+<h2>Planning for the student symposium</h2>
+<p>You have two class periods (~150 mins), how do you want to spend them?</p>
+<p>Constraints:</p>
+<ul>
+<li>Everyone must be a lead author on at least one presentation.</li>
+<li>No person should be an author on more than two presentations.</li>
+<li>If every (<span class="math inline">\(n=15\)</span>) person presents (as an individual or part of a group), there are less than 10 mins/presentation because of the need for transition times.</li>
+<li>Presentations should try to focus on answering these questions:
+<ul>
+<li>What do we know about <span class="math inline">\(X\)</span>, where <span class="math inline">\(X\)</span> could be the biological basis of some behavior, the behavioral effects of some neurotransmitter, hormone, or drug, the role of some circuit or brain region, or some other topic related to the biological/neurological foundations of human behavior.</li>
+<li>What <em>don’t</em> we know about <span class="math inline">\(X\)</span>?</li>
+<li>Why is it important to answer these questions?</li>
+</ul></li>
+<li>Some diversity of topics would be good.</li>
+</ul>
+<p>Suggested starting point:</p>
+<ul>
+<li>Review the <a href="interests.html">student interests</a> page. Look for overlapping themes or common interests.</li>
+<li>Is there a group that could do a mini-symposium around some topic? Or would a co-authored single talk make sense?</li>
+<li>Does someone feel strongly about working with a partner/group versus working alone. Either is totally ok.</li>
+</ul>
+<p>Final points:</p>
+<ul>
+<li>It’s ok to build upon or enhance work you want to do for your research. For example, if you need to review the literature on the role of oxytocin in modulating social behavior for a paper you’re writing, it’s fine to make that a part of your presentation. You’ll just need to make clear to me what new work you’re doing for this assignment.</li>
+</ul>
+<!-- ## Group presentations -->
+<!-- - Provide 2-3 background readings in advance (by Friday, November 30) -->
+<!-- - 25 min (max) presentation + 10 min discussion -->
+<!-- - Focused themes + integrative section -->
+<!--     - What have we learned/what do we know? -->
+<!--     - What don't we know? -->
+<!--     - Why are these answers important to know? -->
+<!--     - How does topic X relate to/inform another theme? -->
+<!-- - Submit slides (after talk is fine) -->
+<!--     - Statement about who did what -->
+<!-- | Group Theme | Members | Presentation Day? | -->
+<!-- |-------------|---------|-------------------| -->
+<!-- | Measuring brain & behavior | Kelley, Anna, Alison, Lauren, Rhea | | -->
+<!-- | Neurodegeneration & disorder | Kaitlin, Sam, Daryl, Emily | | -->
+<!-- | Development, aging, & plasticity | Liz, Michael, Lia, Chloe, Nate | | -->
+<!-- | Cognition & emotion | Austen, Brandon, Shane, Natalia | | -->
+</div>
+
+<p>Copyright &copy; Rick O. Gilmore</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
