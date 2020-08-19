@@ -1,0 +1,329 @@
+---
+title: "PSY 511 Course Intro"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+css: css/ioslides.css
+bibliography: bib/bibliography.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+  html_document:
+    keep_md: true
+  pdf_document:
+    toc: true
+    toc_depth: 1
+    keep_tex: true
+    latex_engine: lualatex
+    fig_width: 7
+    fig_height: 6
+---
+
+```{r set-up, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, cache=TRUE, 
+                      fig.align = "center",
+                      out.width = "800px")
+```
+
+
+## Prelude
+
+>"*If understanding everything we need to know about the brain is a mile, how far have we walked?*"
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## PSY 511 {.flexbox .vcenter}
+
+### Foundations of Cognitive and Affective Neuroscience
+
+<div class="centered">
+<img src="img/fesi-source.jpg"/>
+
+Rick O. Gilmore, Ph.D.</br>
+Professor of Psychology
+</div>
+
+## Today's topics
+
+- Why neuroscience is harder than physics
+- Course overview
+- The connectome and beyond
+- Does neuroscience need behavior? Does behavioral science need the brain?
+
+# Why neuroscience is harder than physics
+
+---
+
+```{r, out.width = "800px"}
+knitr::include_graphics("img/psych-harder-1.jpg")
+```
+
+---
+
+```{r, out.width = "800px"}
+knitr::include_graphics("img/psych-harder-2.jpg")
+```
+
+## What do we need to know to answer the question?
+
+- What is the state...
+    - Of the world ($W$)
+    - Of the organism
+        - Body ($B$)
+        - Nervous system ($N$)
+        - Mind ($M$)
+
+---
+
+```{r nested-causal-realms, echo = FALSE, out.width="800px", fig.align = "center"}
+knitr::include_graphics("img/nested-causality-labels.png")
+```
+
+## Some states are more easily measured than others
+
+- $W$, $B$, $N$ more or less **directly**
+
+---
+
+<div class="centered">
+```{r, echo=FALSE, out.width=750}
+knitr::include_graphics("https://media.nature.com/lw926/nature-assets/neuro/journal/v17/n11/images/nn.3839-F1.jpg")
+```
+
+<small>
+[Sejnowski, Churchland, & Movshon, 2014](http://doi.org/10.1038/nn.3839)
+</small>
+</div>
+
+## Measure mental states ($M$)
+
+- **indirectly**
+- Via $N$, $B$, $W$ (+ prior beliefs/knowledge)
+- Examples?
+
+## Brain & behavior are complex, dynamic *systems* with
+
+- Components
+- Interactions
+- Forces/influences
+- Boundaries
+- Inputs/outputs/processes
+
+## Systems...
+
+- "Behave" or change state across time
+- Return to starting state
+- Appear to be regulated, controlled, influenced by feedback loops
+- $B(t+1) = f(W(t), B(t), N(t), M(t))$
+
+## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science)
+
+```{r, out.height=500}
+knitr::include_graphics("https://d2ufo47lrtsv5s.cloudfront.net/content/sci/342/6158/1238411/F1.large.jpg")
+```
+
+## At multiple levels of organization...
+
+<div class="centered">
+```{r, out.width=700}
+knitr::include_graphics("https://stats.idre.ucla.edu/wp-content/uploads/2016/02/sem_1.png")
+```
+</div>
+
+## Studying systems is hard because...
+
+- Single parts -> multiple functions
+- Single functions -> multiple parts
+
+---
+
+<div class="centered">
+```{r, out.height="500px"}
+knitr::include_graphics("img/calabrese-2018.jpg")
+```
+
+[[@Calabrese2018-ve]](http://doi.org/10.1016/j.tins.2018.05.006)
+</div>
+
+## Studying systems is hard because...
+
+- Change structure/function over time
+- Biological systems not "designed" like human-engineered ones
+- Hard to measure what is being exchanged, what is being controlled
+
+# Course overview
+
+## PSY 511.001 Goals
+
+- Master fundamentals of neuroscientific concepts and facts
+- Prepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience
+
+## Structure
+
+<https://psu-psychology.github.io/psy-511-scan-fdns-2020/>
+
+## Questions
+
+- What is the basic organizational plan of the nervous system?
+- How do neurons work?
+- How do neurons connected in networks achieve behavioral goals?
+- How does the nervous system develop? How has it evolved?
+- How do disorders of the mind reveal themselves in the nervous system?
+
+## Approach
+
+- Brain architecture (neuroanatomy)
+- Brain function (neurophysiology)
+- Brain communication (neurochemistry)
+- Changes over evolutionary and developmental time
+
+## Approach
+
+- The nervous system as an information processing system
+
+---
+
+```{r, out.width=800}
+knitr::include_graphics("https://i.stack.imgur.com/3B00P.png")
+```
+
+---
+
+### **Inputs**
+- From environment, body, brain
+
+### **Processing**
+- Current inputs + brain state + body state + possible future states...
+- Stored information
+- Physiological & behavioral goals
+
+---
+
+### **Outputs**
+- To brain, body, environment
+
+# The connectome and beyond
+
+## Discussion of...
+
+Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+
+---
+
+```{r, fig.cap="Fig 1. Swanson & Lichtman, 2016"}
+knitr::include_graphics("https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/large/ne390197.f1.jpeg")
+```
+
+---
+
+```{r, fig.cap="Fig 2. Swanson & Lichtman, 2016"}
+knitr::include_graphics("https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/medium/ne390197.f2.gif")
+```
+
+---
+
+```{r, fig.cap="Fig 3. Swanson & Lichtman, 2016"}
+knitr::include_graphics("https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/medium/ne390197.f3.gif")
+```
+
+---
+
+```{r, fig.cap="Fig 3. Swanson & Lichtman, 2016"}
+knitr::include_graphics("https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/large/ne390197.f4.jpeg")
+```
+
+---
+
+>"*The so-called explanatory gap (Horgan 1999) between what we can know and what we want to understand is not necessarily made smaller by more information. Rather, such omics information pushes neuroscience into a different realm where information rather than ideas is the currency.*"
+
+[[@Swanson2016-qr]](http://dx.doi.org/10.1146/annurev-neuro-071714-033954)
+
+---
+
+>"*In this realm, a detailed, bottom-up description of a biological system is mined for whatever conceptual insights might be revealed rather than top-down concepts of what we care about being used as a setup for experiments. In this sense, the data give us a more accurate view of the way things are and, at the same time, push us away from intelligible, albeit facile, answers to the enduring puzzles of the brain.*"
+
+[[@Swanson2016-qr]](http://dx.doi.org/10.1146/annurev-neuro-071714-033954)
+
+## Cajal/Swanson Architecture {.flexbox .vcenter}
+
+<div class="centered">
+```{r, out.width="700px"}
+knitr::include_graphics("https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-1.jpg")
+```
+
+[Swanson, 2005](http://dx.doi.org/10.1002/cne.20733)
+</div>
+
+---
+
+<div class="centered">
+```{r, out.width="700px"}
+knitr::include_graphics("https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-3.jpg")
+```
+
+[Swanson, 2005](http://dx.doi.org/10.1002/cne.20733)
+</div>
+
+# Does neuroscience need behavior? Does behavioral science need the brain?
+
+---
+
+<div class="centered">
+```{r, out.width = 750}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg")
+```
+
+[[@Krakauer2017-xl]](http://dx.doi.org/10.1016/j.neuron.2016.12.041)
+</div>
+
+---
+
+<div class="centered">
+```{r, out.width=800}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg")
+```
+
+[[@Krakauer2017-xl]](http://dx.doi.org/10.1016/j.neuron.2016.12.041)
+</div>
+
+## ￼Main points
+
+- Psychology is harder than physics
+- Connectomics and beyond
+- Neuroscience needs behavior; behavioral science needs neuroscience
+
+## Your turn
+
+#### 1. Pick two papers you want to read and (better) understand
+
+- Email me APA formatted citation (with DOIs)
+- Indicate three concepts/terms you are especially interested in understanding
+
+---
+
+#### 2. Choose a behavior or mental state you want to (better) understand
+
+- Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.
+- When thinking about *outputs* make sure to distinguish between *behaviors* (e.g., movements, facial expressions, vocalizations) and *physiological states* (e.g., changes in heart rate, hormone concentrations in the blood, etc.)
+
+## References {.smaller}

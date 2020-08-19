@@ -8,11 +8,12 @@ navbar:
       href: about.html
     - text: "Schedule"
       href: schedule.html
-    - menu: "Lectures"
+    - text: "Lecture notes"
+      menu:
+      - text: "Week 1: 2020-08-25"
+        href: lectures/511-intro.html
     - text: "Evaluation"
       href: evaluation.html
-    - text: "Assignments"
-      href: assignments.html
     - text: "Policies"
       href: policies.html
     - text: "Values"

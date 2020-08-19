@@ -13,7 +13,7 @@
 
 <title>Evaluation</title>
 
-<script src="site_libs/header-attrs-2.2/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -282,11 +282,20 @@ $(document).ready(function () {
 <li>
   <a href="schedule.html">Schedule</a>
 </li>
-<li>
-  <a href="evaluation.html">Evaluation</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lecture notes
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lectures/511-intro.html">Week 1: 2020-08-25</a>
+    </li>
+  </ul>
 </li>
 <li>
-  <a href="assignments.html">Assignments</a>
+  <a href="evaluation.html">Evaluation</a>
 </li>
 <li>
   <a href="policies.html">Policies</a>

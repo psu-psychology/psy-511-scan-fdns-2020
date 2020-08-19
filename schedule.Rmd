@@ -56,7 +56,7 @@ title: "Schedule"
 - Read/Watch
     + Read BW 3:61-78.
     + Read BW 3:78-92.
-- **Quiz 1**. Due at start of class on Thursday, September 24, 2020.
+- **Quiz 1**. Take home. Due at start of class on Thursday, September 24, 2020.
 
 ---
 
@@ -69,7 +69,7 @@ title: "Schedule"
 - Read/Watch
     + Read BW: 4:95-100.
     + Read BW 4:101-130.
-- **Quiz 1 due**. Bring your copy to class.
+- **Quiz 1 due**. Bring your copy to class or email it to me.
 
 ---
 
@@ -208,6 +208,7 @@ title: "Schedule"
 - Topics
     - Reproducibility in neuroscience
 - Readings
+    - Kass, R. (2020). Exaggerated Claims Undermine Science by Ignoring the Scientific Method. <https://youtu.be/PwCyvSDkUCY>
     - Botvinik-Nezer, R., et al. (2020). "Variability in the analysis of a single neuroimaging dataset by many teams." Nature 582(7810): 84-88. <https://doi.org/10.1038/s41586-020-2314-9>.
     - Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. Retrieved from <https://dx.doi.org/10.1111/nyas.13325>.
     - Gorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. *PLoS Biology*, *14*(7), e1002506. Retrieved October 2, 2016, from <https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506>.

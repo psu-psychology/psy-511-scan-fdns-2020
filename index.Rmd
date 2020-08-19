@@ -15,7 +15,6 @@ Professor of Psychology</br>
 +1 (814) 865-3664</br>
 rog1 AT-SYMBOL psu PERIOD edu</br>
 [Schedule an appointment](https://doodle.com/mm/rickgilmore/book-a-time)</br>
-
 [https://gilmore-lab.github.io](http://gilmore-lab.github.io)</br>
 
 ## Meeting Location and Time
@@ -25,5 +24,5 @@ Course 15677
 
 ## Syllabus
 
-You can find a PDF version of the syllabus at <https://psu-psychology.github.io/psy-511-scan-fdns-2020/psy-511-2020-fall-gilmore-syllabus.pdf>.
+You can find a PDF version of the syllabus at <https://psu-psychology.github.io/psy-511-scan-fdns-2020.pdf>.
 Note that the web version is the most up-to-date one.

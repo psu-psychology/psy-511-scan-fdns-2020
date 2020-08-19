@@ -13,7 +13,7 @@
 
 <title>About the site</title>
 
-<script src="site_libs/header-attrs-2.2/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -282,11 +282,20 @@ $(document).ready(function () {
 <li>
   <a href="schedule.html">Schedule</a>
 </li>
-<li>
-  <a href="evaluation.html">Evaluation</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lecture notes
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lectures/511-intro.html">Week 1: 2020-08-25</a>
+    </li>
+  </ul>
 </li>
 <li>
-  <a href="assignments.html">Assignments</a>
+  <a href="evaluation.html">Evaluation</a>
 </li>
 <li>
   <a href="policies.html">Policies</a>
@@ -338,10 +347,10 @@ $(document).ready(function () {
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] compiler_3.6.2  magrittr_1.5    htmltools_0.4.0 tools_3.6.2    
-##  [5] yaml_2.2.1      tinytex_0.23    Rcpp_1.0.4.6    stringi_1.4.6  
-##  [9] rmarkdown_2.2   knitr_1.28      stringr_1.4.0   xfun_0.14      
-## [13] digest_0.6.25   packrat_0.5.0   rlang_0.4.6     evaluate_0.14</code></pre>
+##  [1] compiler_3.6.2   magrittr_1.5     rsconnect_0.8.16 htmltools_0.5.0 
+##  [5] tools_3.6.2      yaml_2.2.1       tinytex_0.25     stringi_1.4.6   
+##  [9] rmarkdown_2.3    knitr_1.29       stringr_1.4.0    xfun_0.16       
+## [13] digest_0.6.25    packrat_0.5.0    rlang_0.4.7      evaluate_0.14</code></pre>
 
 <p>Copyright &copy; Rick O. Gilmore</p>
 
