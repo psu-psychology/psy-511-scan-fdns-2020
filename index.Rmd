@@ -24,5 +24,5 @@ Course 15677
 
 ## Syllabus
 
-You can find a PDF version of the syllabus at <https://psu-psychology.github.io/psy-511-scan-fdns-2020.pdf>.
+You can find a PDF version of the syllabus at <https://psu-psychology.github.io/psy-511-scan-fdns-2020/psy-511-scan-fdns-2020.pdf>.
 Note that the web version is the most up-to-date one.
