@@ -1,6 +1,6 @@
 name: "PSY 511.001 Fall 2020"
 navbar:
-  title: "PSY 511"
+  title: "\u03A8 511"
   left:
     - text: "Home"
       href: index.html
