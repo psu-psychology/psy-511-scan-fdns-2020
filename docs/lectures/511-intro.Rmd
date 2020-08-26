@@ -1,5 +1,6 @@
 ---
-title: "PSY 511 Course Intro"
+title: "PSY 511"
+subtitle: "Course intro"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 css: css/ioslides.css
@@ -28,7 +29,6 @@ knitr::opts_chunk$set(echo = FALSE, cache=TRUE,
                       fig.align = "center",
                       out.width = "800px")
 ```
-
 
 ## Prelude
 
@@ -106,6 +106,10 @@ knitr::include_graphics("https://media.nature.com/lw926/nature-assets/neuro/jour
 - **indirectly**
 - Via $N$, $B$, $W$ (+ prior beliefs/knowledge)
 - Examples?
+
+## What are essential components/dimensions of $W$?
+
+## What are essential components/dimensions of $B$?
 
 ## Brain & behavior are complex, dynamic *systems* with
 
@@ -206,6 +210,7 @@ knitr::include_graphics("https://i.stack.imgur.com/3B00P.png")
 ---
 
 ### **Outputs**
+
 - To brain, body, environment
 
 # The connectome and beyond
@@ -213,6 +218,12 @@ knitr::include_graphics("https://i.stack.imgur.com/3B00P.png")
 ## Discussion of...
 
 Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954
+
+## Key ideas
+
+- Form <> function
+- "*What differs between species is the architecture of nervous systems....*"
+- Connectomes at different levels of analysis
 
 <!-- Scrolling final reference page -->
 <!-- http://stackoverflow.com/q/38260799 -->
@@ -286,6 +297,12 @@ knitr::include_graphics("https://raw.githubusercontent.com/psu-psychology/psy-51
 
 # Does neuroscience need behavior? Does behavioral science need the brain?
 
+## Key points
+
+- Questions 'often tacit...belief in the reductionist program for understanding the link between brain and behavior'
+- Behavior -> understanding; neural inverventions -> causality
+- Marr's 3 levels (computation; algorithm; implementation)
+
 ---
 
 <div class="centered">
@@ -306,7 +323,7 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S089662731
 [[@Krakauer2017-xl]](http://dx.doi.org/10.1016/j.neuron.2016.12.041)
 </div>
 
-## ￼Main points
+## Main points
 
 - Psychology is harder than physics
 - Connectomics and beyond

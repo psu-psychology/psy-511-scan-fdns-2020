@@ -13,8 +13,8 @@ title: "Schedule"
     + The connectome and beyond
     + Does neuroscience need behavior? Does behavioral science need the brain?
 - Read/Watch
-    - Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954.
-    - Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. *Neuron*, *93*(3), 480–490. <https://dx.doi.org/10.1016/j.neuron.2016.12.041>.
+    - Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. <https://doi.org/10.1146/annurev-neuro-071714-033954>. [PDF](pdf/swanson-2016.pdf).
+    - Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. *Neuron*, *93*(3), 480–490. <https://dx.doi.org/10.1016/j.neuron.2016.12.041>. [pdf](pdf/krakauer-et-al-2017.pdf).
 
 ---
 
