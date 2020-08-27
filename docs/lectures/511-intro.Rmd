@@ -217,7 +217,9 @@ knitr::include_graphics("https://i.stack.imgur.com/3B00P.png")
 
 ## Discussion of...
 
-Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954
+Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216.
+
+<https://via.hypothes.is/https://psu-psychology.github.io/psy-511-scan-fdns-2020/pdf/swanson-2016.pdf>
 
 ## Key ideas
 
@@ -296,6 +298,12 @@ knitr::include_graphics("https://raw.githubusercontent.com/psu-psychology/psy-51
 </div>
 
 # Does neuroscience need behavior? Does behavioral science need the brain?
+
+## Discussion of...
+
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. *Neuron*, *93*(3), 480–490. <https://dx.doi.org/10.1016/j.neuron.2016.12.041>. 
+
+<https://via.hypothes.is/https://psu-psychology.github.io/psy-511-scan-fdns-2020/pdf/krakauer-et-al-2017.pdf>
 
 ## Key points
 
