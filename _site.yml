@@ -12,6 +12,8 @@ navbar:
       menu:
       - text: "Week 1: 2020-08-25"
         href: lectures/511-intro.html
+      - text: "Week 2: 2020-09-03"
+        href: lectures/511-methods.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"
