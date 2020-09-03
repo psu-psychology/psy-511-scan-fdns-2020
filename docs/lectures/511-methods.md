@@ -1,7 +1,7 @@
 ---
 title: "Methods"
 author: "Rick Gilmore"
-date: "2020-09-02 15:21:48"
+date: "2020-09-03 14:25:28"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
