@@ -1,7 +1,8 @@
 ---
-title: "Methods"
+title: "PSY 511"
+subtitle: "Methods"
 author: "Rick Gilmore"
-date: "2020-09-03 14:25:28"
+date: "2020-09-09 07:44:23"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -13,6 +14,13 @@ output:
     toc_depth: 5
     toc_float: no
     code_folding: hide
+  pdf_document:
+    toc: true
+    toc_depth: 1
+    keep_tex: true
+    latex_engine: lualatex
+    fig_width: 7
+    fig_height: 6
 ---
 
 

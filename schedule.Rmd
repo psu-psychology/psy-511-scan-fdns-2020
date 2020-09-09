@@ -38,10 +38,14 @@ title: "Schedule"
 ### Thursday, September 10
 
 - Topics
+    + Wrap-up on methods
     + Cellular neuroscience (anatomy)
     + Cellular neuroscience (resting potential)
+    + Cellular neuroscience (action potential)
 - Read/Watch
     + BW[^1] 2:36-51.
+    + Read BW 3:61-78.
+    + Read BW 3:78-92.
     + Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. *Nature Reviews Neuroscience*. Retrieved from <https://dx.doi.org/10.1038/nrn.2017.85>.
     + Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. *Trends in Neurosciences*, *38*(9), 535–549. Retrieved from <https://dx.doi.org/10.1016/j.tins.2015.07.006>.
     
@@ -52,10 +56,8 @@ title: "Schedule"
 ### Thursday, September 17
 
 - Topics
-    + Cellular neuroscience (action potential, and synaptic transmission)
+    + Neuroanatomy I
 - Read/Watch
-    + Read BW 3:61-78.
-    + Read BW 3:78-92.
 - **Quiz 1**. Take home. Due at start of class on Thursday, September 24, 2020.
 
 ---
@@ -65,10 +67,8 @@ title: "Schedule"
 ### Thursday, September 24
 
 - Topics
-    + Neurochemistry.
+    + Neuroanatomy II
 - Read/Watch
-    + Read BW: 4:95-100.
-    + Read BW 4:101-130.
 - **Quiz 1 due**. Bring your copy to class or email it to me.
 
 ---
@@ -78,9 +78,12 @@ title: "Schedule"
 ### Thursday, October 1
 
 - Topic
+    + Neurochemistry
     - Hormones 
     - Brain/gut connection
 - Read/Watch
+    + Read BW: 4:95-100.
+    + Read BW 4:101-130.
     + Read BW 5:125-154.
     + Read BW 5:131-159.
     - (Optional) Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.09.002>.
