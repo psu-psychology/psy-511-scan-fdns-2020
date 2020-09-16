@@ -56,9 +56,9 @@ title: "Schedule"
 ### Thursday, September 17
 
 - Topics
-    + Neuroanatomy I
+    + Cellular neuroscience (resting potential)
+    + Cellular neuroscience (action potential)
 - Read/Watch
-- **Quiz 1**. Take home. Due at start of class on Thursday, September 24, 2020.
 
 ---
 
@@ -67,9 +67,9 @@ title: "Schedule"
 ### Thursday, September 24
 
 - Topics
-    + Neuroanatomy II
+    + Neuroanatomy
 - Read/Watch
-- **Quiz 1 due**. Bring your copy to class or email it to me.
+- **Quiz 1**. Take home. Due at start of class on Thursday, September 24, 2020.
 
 ---
 
@@ -87,6 +87,7 @@ title: "Schedule"
     + Read BW 5:125-154.
     + Read BW 5:131-159.
     - (Optional) Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.09.002>.
+- **Quiz 1 due**. Email it to me.
 
 ---
 
@@ -128,7 +129,6 @@ title: "Schedule"
     - Read BW 10: 301:335, 11: 341:368.
     + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-013913>
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
-- **Quiz 2** distributed.  Due at start of class on October 29, 2020.
 
 ---
 
@@ -140,7 +140,7 @@ title: "Schedule"
     + Cognition & language. Read BW 19.
 - Reading
     + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
-- **Quiz 2** due.
+- **Quiz 2** distributed. Due at the start of class on 11/5.
 
 ---
 
@@ -152,6 +152,7 @@ title: "Schedule"
     + Learning & memory. Read BW 17.
 - Read/Watch
     + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
+- **Quiz 2** due.
 
 ---
 

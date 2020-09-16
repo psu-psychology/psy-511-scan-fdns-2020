@@ -1,8 +1,8 @@
 ---
 title: "[PSY 511](https://psu-psychology.github.io/psy-511-scan-fdns-2020)"
 subtitle: "Cells of the nervous system"
-author: "Rick Gilmore"
-date: "2020-09-09 07:56:40"
+author: "Rick O. Gilmore"
+date: "2020-09-16 07:52:27"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -478,26 +478,23 @@ Under typical conditions
 <!--     - $V_{K}$ = $\frac{RT}{(+1)F}ln(\frac{[K^+]_{out}}{[K^+]_{in}})$ -->
 <!--     - $V_{K}$ = ~ -90 mV -->
 <!--     - Negative in/positive out keeps in/out concentration gradient -->
-
-<!-- ## Equilibrium potential -->
-
 <!-- - $K^+$ flows out through passive/leak channels; most remains near membrane -->
 <!-- - Separation from $A^-$ creates charge $\frac{K+K+K+K+K+}{A-A-A-A-A-}$ along capacitor-like membrane -->
 <!-- - $V_m$ --> $V_{K}$ -->
 
-<!-- ## The $Na^+$ story -->
+<!-- **The $Na^+$ story** -->
 
 <!-- - $Na^+$/$K^+$ pump pushes $Na^+$ **out** -->
 <!-- - $[Na^+]_{in}$ (~10 mM) << $[Na^+]_{out}$ (~140 mM) -->
 <!-- - Equilibrium potential for $Na^+$, $V_{Na}$ = ~ +55 mV -->
-<!--     - Inside positive/outside negative to maintain outside > inside concentration gradient  -->
+<!--     - Inside positive/outside negative to maintain outside > inside concentration gradient -->
 <!-- - If $Na^+$ alone, $V_m$ --> $V_{Na}$ (~ +55 mV) -->
 
 <!-- ## "Resting" potential -->
 
 <!-- - Sum of outward $K^+$ and inward $Na^+$ -->
-<!--     - Membrane more permeable to $K^+$ than $Na^+$, $p_{$K^+}$>$p_{Na^+}$  -->
-<!--     - Outward flow of $K^+$ > inward flow of $Na^+$  -->
+<!--     - Membrane more permeable to $K^+$ than $Na^+$, $p_{$K^+}$>$p_{Na^+}$ -->
+<!--     - Outward flow of $K^+$ > inward flow of $Na^+$ -->
 <!--     - Resting potential (~-70 mV) closer to $V_{K}$ (-90 mV) than $V_{Na}$ (+55 mV) -->
 <!-- - Goldman-Hodgkin-Katz equation -->
 <!--     - $V_m = \frac{RT}{F}ln(\frac{p_{K^+}[K^+]_{out}+p_{Na^+}[Na^+]_{out}}{p_{K^+}[K^+]_{in}+p_{Na^+}[Na^+]_{in}})$ -->

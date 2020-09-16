@@ -11,6 +11,19 @@ PSY 511 course performance will be evaluated based on the following scheme:
 | Paper               | 30 pts                       | 33.3    |
 | **TOTAL**           | **90**                      | **100** |
 
+### For clinical area graduate students
+
+Quiz 1 covers material related to biology-related discipline specific knowledge (DSK). 
+
+Quiz 2 covers material related to cognitive-related discipline specific knowledge (DSK).
+
+Quiz 3 covers material related to affect-related discipline specific knowledge (DSK).
+
+Classroom participation and the final paper assess advanced integrative knowledge (AIK).
+
+For students to receive a passing grade (B or better for the course, they must receive a passing grade (B or better or Satisfactory) for each assignment or activity designed to assess DSK and IAK.
+Students have one opportunity to re-do an assignment if they do not initially receive a passing grade.
+
 ### Grading Scheme
 
 | Points  | Percent | Grade |
