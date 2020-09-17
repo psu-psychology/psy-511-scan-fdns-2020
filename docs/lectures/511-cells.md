@@ -2,7 +2,7 @@
 title: "[PSY 511](https://psu-psychology.github.io/psy-511-scan-fdns-2020)"
 subtitle: "Cells of the nervous system"
 author: "Rick O. Gilmore"
-date: "2020-09-16 07:52:27"
+date: "2020-09-17 14:20:45"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -415,8 +415,6 @@ $$E = IR$$
 
 <img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width="800px" style="display: block; margin: auto;" />
 
-<img src="https://lh3.googleusercontent.com/proxy/lGcIJogRbh4dqtqIrO1x3ymBD7hgeRwjNVG8FlhbifRnn-7Uc18XULB90qh52eIQ717RF3EnJmwAIDyOBtV1amyXgI0fep4qQxalr_5vSCe3zQ9vuyEXUel3gne1EVjsQInKfy2oBpXMCM2sTE-8-KA" width="800px" style="display: block; margin: auto;" />
-
 **Neuron at resting potential has low $Na^+$ permeability**
 
 - $Na^+$ concentrated outside neuron (~145 mM) vs. inside (~12 mM)
@@ -480,7 +478,7 @@ Under typical conditions
 <!--     - Negative in/positive out keeps in/out concentration gradient -->
 <!-- - $K^+$ flows out through passive/leak channels; most remains near membrane -->
 <!-- - Separation from $A^-$ creates charge $\frac{K+K+K+K+K+}{A-A-A-A-A-}$ along capacitor-like membrane -->
-<!-- - $V_m$ --> $V_{K}$ -->
+<!-- - $V_m$ -> $V_{K}$ -->
 
 <!-- **The $Na^+$ story** -->
 
@@ -488,7 +486,7 @@ Under typical conditions
 <!-- - $[Na^+]_{in}$ (~10 mM) << $[Na^+]_{out}$ (~140 mM) -->
 <!-- - Equilibrium potential for $Na^+$, $V_{Na}$ = ~ +55 mV -->
 <!--     - Inside positive/outside negative to maintain outside > inside concentration gradient -->
-<!-- - If $Na^+$ alone, $V_m$ --> $V_{Na}$ (~ +55 mV) -->
+<!-- - If $Na^+$ alone, $V_m$ -> $V_{Na}$ (~ +55 mV) -->
 
 <!-- ## "Resting" potential -->
 
