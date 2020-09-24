@@ -2,7 +2,7 @@
 title: "[PSY 511](https://psu-psychology.github.io/psy-511-scan-fdns-2020)"
 subtitle: "Cells of the nervous system"
 author: "Rick O. Gilmore"
-date: "2020-09-17 14:20:45"
+date: "2020-09-17 14:30:48"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -383,7 +383,10 @@ $$E = IR$$
     + Ligand-gated (chemically-gated)
     + Transporters
     
-<img src="http://www.nature.com/nrn/journal/v2/n4/images/nrn0401_240a_f1.gif" width="800px" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="http://www.zoology.ubc.ca/~gardner/F21-08.GIF" alt="http://www.zoology.ubc.ca/~gardner/F21-08.GIF" width="800px" />
+<p class="caption">http://www.zoology.ubc.ca/~gardner/F21-08.GIF</p>
+</div>
 
 #### Conditions
 
@@ -428,7 +431,10 @@ $$E = IR$$
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg" width="800px" style="display: block; margin: auto;" />
 
-<img src="http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png" width="800px" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png" alt="Ions contributing to the resting potential" width="800px" />
+<p class="caption">Ions contributing to the resting potential</p>
+</div>
 
 **Summary of forces**
 

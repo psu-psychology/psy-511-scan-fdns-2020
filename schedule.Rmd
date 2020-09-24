@@ -58,7 +58,6 @@ title: "Schedule"
 - Topics
     + Cellular neuroscience (resting potential)
     + Cellular neuroscience (action potential)
-- Read/Watch
 
 ---
 
@@ -69,7 +68,7 @@ title: "Schedule"
 - Topics
     + Neuroanatomy
 - Read/Watch
-- **Quiz 1**. Take home. Due at start of class on Thursday, September 24, 2020.
+- [**Quiz 1**](quiz/quiz-01/psy-511.001-20-quiz-01.docx). Take home. Due at start of class on Thursday, October 1, 2020.
 
 ---
 

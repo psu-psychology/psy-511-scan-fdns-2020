@@ -14,8 +14,10 @@ navbar:
         href: lectures/511-intro.html
       - text: "Week 2: 2020-09-03"
         href: lectures/511-methods.html
-      - text: "Week 3: 2020-09-10"
+      - text: "Weeks 3 & 4: 2020-09-10 & 2020-09-17"
         href: lectures/511-cells.html
+      - text: "Week 5: 2020-09-24"
+        href: lectures/511-anatomy.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"

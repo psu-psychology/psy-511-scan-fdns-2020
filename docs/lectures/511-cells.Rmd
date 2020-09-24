@@ -434,8 +434,8 @@ knitr::include_graphics("http://www.nature.com/nrn/journal/v2/n4/images/nrn0401_
     + Ligand-gated (chemically-gated)
     + Transporters
     
-```{r}
-knitr::include_graphics("http://www.nature.com/nrn/journal/v2/n4/images/nrn0401_240a_f1.gif")
+```{r, fig.cap='http://www.zoology.ubc.ca/~gardner/F21-08.GIF'}
+knitr::include_graphics("http://www.zoology.ubc.ca/~gardner/F21-08.GIF")
 ```
 
 #### Conditions
@@ -491,7 +491,7 @@ knitr::include_graphics("http://www.physiologyweb.com/calculators/figs/ghk_equat
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg")
 ```
 
-```{r}
+```{r, fig.cap='Ions contributing to the resting potential'}
 knitr::include_graphics("http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png")
 ```
 
