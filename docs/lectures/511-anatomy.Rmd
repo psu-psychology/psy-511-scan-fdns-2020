@@ -1,5 +1,6 @@
 ---
-title: "511-anatomy-outline"
+title: "Neuroanatomy"
+subtitle: "PSY 511"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib

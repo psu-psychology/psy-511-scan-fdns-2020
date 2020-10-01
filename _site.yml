@@ -18,6 +18,8 @@ navbar:
         href: lectures/511-cells.html
       - text: "Week 5: 2020-09-24"
         href: lectures/511-anatomy.html
+      - text: "Week 6: 2020-10-01"
+        href: lectures/511-chemical-communication.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"

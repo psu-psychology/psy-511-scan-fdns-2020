@@ -1,7 +1,8 @@
 ---
-title: "511-anatomy-outline"
+title: "Neuroanatomy"
+subtitle: "PSY 511"
 author: "Rick Gilmore"
-date: "2020-09-24 12:02:18"
+date: "2020-10-01 08:05:01"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
