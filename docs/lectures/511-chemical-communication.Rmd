@@ -328,7 +328,7 @@ knitr::include_graphics("http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploa
 - Clinical relevance for ADHD, Alzheimer's, Parkinson's, depression
 - Inactivated by norepinephrine transporter (NET), aka noradrenaline transporter (NAT)
     - Contributes to DA uptake, too.
-- Also Monoamine oxidase inhibitors (MAOIs)
+- Also monoamine oxidase inhibitors (MAOIs)
     + inactivate monoamines in neurons, astrocytes
     + MAOIs increase NE, DA
     + Treatment for depression
@@ -347,7 +347,7 @@ knitr::include_graphics("https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Fi
 - Synthesized from norepinephrine
 - As NT: Released in small amounts by medulla oblongata
 - As hormone: Released by adrenal medulla
-- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancrease, etc.
+- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
 - Release enhanced by cortisol from adrenal cortex
 
 ### Serotonin (5-HT)

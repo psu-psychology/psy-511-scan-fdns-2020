@@ -171,7 +171,7 @@ knitr::include_graphics("https://64.media.tumblr.com/29ad3be13cc42500c5c0eb496b4
 - Sexual arousal
 - Released in bursts during orgasm
 - Stimulates uterine, vaginal contraction during labor
-    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident
+    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident.
 - Oxytocin cells in ovarian corpus luteum, testicles, retina, adrenal medulla, pancreas
 - Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
 - Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)

@@ -2,7 +2,7 @@
 title: "Chemical communication"
 subtitle: "PSY 511"
 author: "Rick Gilmore"
-date: "2020-10-01 08:37:56"
+date: "2020-10-08 07:43:06"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -324,7 +324,7 @@ Inactivated via
 - Clinical relevance for ADHD, Alzheimer's, Parkinson's, depression
 - Inactivated by norepinephrine transporter (NET), aka noradrenaline transporter (NAT)
     - Contributes to DA uptake, too.
-- Also Monoamine oxidase inhibitors (MAOIs)
+- Also monoamine oxidase inhibitors (MAOIs)
     + inactivate monoamines in neurons, astrocytes
     + MAOIs increase NE, DA
     + Treatment for depression
@@ -344,7 +344,7 @@ Inactivated via
 - Synthesized from norepinephrine
 - As NT: Released in small amounts by medulla oblongata
 - As hormone: Released by adrenal medulla
-- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancrease, etc.
+- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
 - Release enhanced by cortisol from adrenal cortex
 
 ### Serotonin (5-HT)
@@ -582,7 +582,7 @@ Clinically significant because
 - Sexual arousal
 - Released in bursts during orgasm
 - Stimulates uterine, vaginal contraction during labor
-    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident
+    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident.
 - Oxytocin cells in ovarian corpus luteum, testicles, retina, adrenal medulla, pancreas
 - Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
 - Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
