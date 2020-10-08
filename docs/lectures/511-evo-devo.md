@@ -1,7 +1,7 @@
 ---
 title: "511-evo-devo"
 author: "Rick Gilmore"
-date: "2020-10-08 07:39:50"
+date: "2020-10-08 17:10:33"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -108,11 +108,6 @@ output:
 <p class="caption">http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif</p>
 </div>
 
-<div class="figure" style="text-align: center">
-<img src="http://anthony.liekens.net/pub/timeline.png" alt="http://anthony.liekens.net/pub/timeline.png" width="800px" />
-<p class="caption">http://anthony.liekens.net/pub/timeline.png</p>
-</div>
-
 ### Nervous system architectures
 
 #### How nervous systems differ
@@ -120,10 +115,6 @@ output:
 - Body symmetry
     + radial
     + bilateral
-    
-<div class="centered">
-<img src="https://media.nature.com/lw926/nature-assets/nrn/journal/v17/n1/images/nrn.2015.15-f1.jpg" height=500px>
-</div>
 
 <div class="figure" style="text-align: center">
 <img src="https://media.nature.com/lw926/nature-assets/nrn/journal/v17/n1/images/nrn.2015.15-f1.jpg" alt="Source: [[@arendt_nerve_2016]](https://doi.org/10.1038/nrn.2015.15)" width="800px" />
@@ -149,9 +140,7 @@ output:
 - Defense
 - Reproduction
 
-<div class="centered">
-<img src="img/swanson-fig-7.5.jpg" height=450px>
-</div>
+<img src="img/swanson-fig-7.5.jpg" width="800px" style="display: block; margin: auto;" />
 
 #### Information processing universals
 
@@ -193,13 +182,13 @@ output:
 ### Vertebrate CNS organization
 
 <div class="figure" style="text-align: center">
-<img src="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" alt="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" width="800px" />
-<p class="caption">http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg</p>
+<img src="img/northcutt-2002-f1.gif" alt="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)" width="800px" />
+<p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
 </div>
 
 <div class="figure" style="text-align: center">
-<img src="img/northcutt-2002-f1.gif" alt="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)" width="800px" />
-<p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
+<img src="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" alt="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" width="800px" />
+<p class="caption">http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg</p>
 </div>
 
 <div class="figure" style="text-align: center">
@@ -212,16 +201,22 @@ output:
 <p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
 </div>
 
+- Differences in size of the cerebral cortex
+
 <div class="figure" style="text-align: center">
 <img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg" alt="[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)" width="800px" />
 <p class="caption">[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)</p>
 </div>
+
+<smaller>Figure 1. Lateral views of the brains of some mammals to show the evolutionary development of the neocortex (gray). In the hedgehog almost the entire neocortex is occupied by sensory and motor areas. In the prosimian Galago the sensory cortical areas are separated by an area occupied by association cortex (AS). A second area of association cortex is found in front of the motor cortex. In man these anterior and posterior association areas are strongly developed. A, primary auditory cortex; AS, association cortex; Ent, entorhinal cortex; I, insula; M, primary motor cortex; PF, prefrontal cortex; PM, premotor cortex; S, primary somatosensory cortex; V, primary visual cortex. Modified with permission from Nieuwenhuys (1994).</smaller>
 
 | Structural measure | Non-human comparison | Human |
 |--------------------|----------------------|-------|
 | Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
 | Cortical gray + white | mice 40% | 80% |
 | Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+- Evidence for greater gray and white matter (relative to total brain volume) in human cerebral cortex
 
 <div class="figure" style="text-align: center">
 <img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f1.jpg" alt="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)" width="800px" />
@@ -250,12 +245,11 @@ output:
 
 - Humans have larger cerebral cortical gray + white matter than comparable mammals
 
-
 **vs. New story**
 
 - Does brain size/mass matter (that much)?
 - "Size matters" (brain mass) presumes similarity among brains at micro-level
-- Big (large mass) brains arise in multiple animal lineages
+- Big (large mass) brains arise in multiple mammalian lineages
 
 <div class="figure" style="text-align: center">
 <img src="http://www.pnas.org/content/109/Supplement_1/10661/F1.large.jpg" alt="[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)" width="800px" />
@@ -263,7 +257,7 @@ output:
 </div>
 
 - *# of cortical neurons* more important difference than brain mass
-- The primate advantage -> more cortical neurons, but not larger neurons
+- The primate advantage -> more cortical neurons, but not larger neurons & not more neurons in cerebellum
 - Human brain just scaled up (non-ape) primate brain
 
 <div class="figure" style="text-align: center">
@@ -280,11 +274,13 @@ output:
 
 **The Human Advantage [@Herculano-Houzel2016-oy]**
 
-- More neurons in cerebral cortex than other animals, but not disproportionately so
-- Less time spent foraging
-    + Higher quality/more energetically dense food
-    + Higher food availability
-    + Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
+- Brain
+    - More neurons in cerebral cortex than other mammals
+- Behavior
+    - Less time spent foraging
+        + Higher quality/more energetically dense food
+        + Higher food availability
+        + Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
     
 **A further human advantage**
 
