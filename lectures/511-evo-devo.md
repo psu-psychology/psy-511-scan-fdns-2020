@@ -1,7 +1,7 @@
 ---
 title: "511-evo-devo"
 author: "Rick Gilmore"
-date: "2020-10-08 17:10:33"
+date: "2020-10-08 17:14:02"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -280,7 +280,7 @@ output:
     - Less time spent foraging
         + Higher quality/more energetically dense food
         + Higher food availability
-        + Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
+    - Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
     
 **A further human advantage**
 

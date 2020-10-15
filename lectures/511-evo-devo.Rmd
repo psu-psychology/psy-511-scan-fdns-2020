@@ -270,7 +270,7 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S235215461
     - Less time spent foraging
         + Higher quality/more energetically dense food
         + Higher food availability
-        + Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
+    - Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
     
 **A further human advantage**
 
