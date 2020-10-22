@@ -20,8 +20,12 @@ navbar:
         href: lectures/511-anatomy.html
       - text: "Week 6: 2020-10-01"
         href: lectures/511-chemical-communication.html
-      - text: "Week 7: 2020-10-08"
+      - text: "Weeks 7-8: 2020-10-08"
         href: lectures/511-evo-devo.html
+      - text: "Week 9: 2020-10-22"
+        href: lectures/511-perception.html
+      - text: "Week 10: 2020-10-29"
+        href: lectures/511-action.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"

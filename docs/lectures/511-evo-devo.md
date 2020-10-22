@@ -1,7 +1,7 @@
 ---
 title: "511-evo-devo"
 author: "Rick Gilmore"
-date: "2020-10-08 17:14:02"
+date: "2020-10-15 15:41:10"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -309,27 +309,49 @@ output:
 
 ### Formation of *neural tube* (neurulation)
 
+<img src="https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg" width="800px" style="display: block; margin: auto;" />
+
 - Embryonic layers: ectoderm, mesoderm, endoderm
 - ~18-26 days
 - Failures of neural tube closure
-    + Spina bifida (caudal neuraxis)
     + Anencephaly (rostral neuraxis)
+    + Spina bifida (caudal neuraxis)
+    
+<div class="figure" style="text-align: center">
+<img src="https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/ds00417_im03493_r7_spinabifidababythu_jpg-popup.jpg" alt="https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860" width="800px" />
+<p class="caption">https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860</p>
+</div>
+
 - Neural tube becomes
     + Ventricles & cerebral aqueduct
     + Central canal of spinal cord
+    
+<img src="https://www.mussenhealth.us/growth-cones/images/2009_48_104-neural-tube-tion.jpg" width="800px" style="display: block; margin: auto;" />
 
 ### Neurogenesis and gliogenesis
 
 - Neuroepithelium cell layer lines neural tube
-- Neural stem cells
-    - Undergo *symmetric* & *asymmetric* cell division
-    - Generate glia, neurons, and basal progenitor cells
-
+    - Peri-ventricular regions remain home to cells that can produce new cells
 
 <div class="figure" style="text-align: center">
 <img src="https://www.nature.com/nrm/journal/v6/n10/images/nrm1739-f1.jpg" alt="[[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)" width="800px" />
 <p class="caption">[[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)</p>
 </div>
+
+- Areas in adult human brain that generate new neurons
+    - hippocampus
+    - striatum
+    - olfactory bulb (minimally)
+    - weak evidence for neurogenesis in adult cerebral cortex
+
+<div class="figure" style="text-align: center">
+<img src="https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002045.g001" alt="[Ernst &amp; Frisen 2015](https://doi.org/10.1371/journal.pbio.1002045)" width="800px" />
+<p class="caption">[Ernst & Frisen 2015](https://doi.org/10.1371/journal.pbio.1002045)</p>
+</div>
+
+- Neural stem cells
+    - Undergo *symmetric* & *asymmetric* cell division
+    - Generate glia, neurons, and basal progenitor cells
 
 ### Radial glia and cell migration
 
@@ -370,6 +392,8 @@ output:
 
 - Neuron vs. glial cell
 - Cell type
+    - myelin-producing vs. astrocyte vs. microglia
+    - pyramidal cell vs. stellate vs. Purkinje vs. ...
 - NTs released
 - Where to connect
 
@@ -574,9 +598,12 @@ Your browser does not support the video tag.
 ### Gene expression across development
 
 <div class="figure" style="text-align: center">
-<img src="https://www.nature.com/nature/journal/v478/n7370/images/nature10523-f5.2.jpg" alt="[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)" width="800px" />
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp" alt="[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)" width="800px" />
 <p class="caption">[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)</p>
 </div>
+
+>a, Comparison between DCX expression in HIP and the density of DCX-immunopositive cells in the human dentate gyrus36. b, Comparison between transcriptome-based dendrite development trajectory in DFC and Golgi-method-based growth of basal dendrites of layer 3 (L3) and 5 (L5) pyramidal neurons in the human DFC41. c, Comparison between transcriptome-based synapse development trajectory in DFC and density of DFC synapses calculated using electron microscopy42. For b and c, PC1 for gene expression was plotted against age to represent the developmental trajectory of genes associated with dendrite (b) or synapse (c) development. Independent data sets were centred, scaled and plotted on a logarithmic scale. d, PC1 value for the indicated sets of genes (expressed as percentage of maximum) plotted against age to represent general trends and regional differences in several neurodevelopmental processes in NCX, HIP and CBC.
+
 
 ## Summary of developmental milestones
 

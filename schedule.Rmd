@@ -138,6 +138,7 @@ title: "Schedule"
     - Read BW 10: 301:335, 11: 341:368.
     + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-013913>
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
+- **Quiz 2** distributed. Due at the start of class on 11/05.
 
 ---
 
@@ -151,7 +152,7 @@ title: "Schedule"
 - Read/Watch
     + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
     + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
-- **Quiz 2** distributed. Due at the start of class on 11/12.
+- **Quiz 2 due**
 
 ---
 
@@ -167,7 +168,6 @@ title: "Schedule"
     - Hu, H. (2016). Reward and aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-014106>
     + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. *Trends in Neurosciences*. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.07.002>
     + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-072116-031109>.
-- **Quiz 2 due**
 
 ---
 
