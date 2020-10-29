@@ -138,7 +138,7 @@ title: "Schedule"
     - Read BW 10: 301:335, 11: 341:368.
     + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-013913>
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
-- [**Quiz 2**](quiz/quiz-01/psy-511.001-20-quiz-02.docx) distributed. Due by 5:00 PM on 11/05.
+- [**Quiz 2**](quiz/quiz-02/psy-511.001-20-quiz-02.docx) distributed. Due by 5:00 PM on 11/05.
 
 ---
 

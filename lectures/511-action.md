@@ -1,7 +1,7 @@
 ---
 title: "511-action"
 author: Rick Gilmore
-date: "2020-10-29 07:40:04"
+date: "2020-10-29 14:32:12"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -19,7 +19,7 @@ output:
 
 # For fun
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/L0CVoFsUhC4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/L0CVoFsUhC4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XaI5IRuS2aE" frameborder="0" allowfullscreen></iframe>
 
