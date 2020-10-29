@@ -1,7 +1,7 @@
 ---
 title: "511-action"
 author: Rick Gilmore
-date: "2020-10-29 14:32:12"
+date: "2020-10-29 15:49:53"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -179,8 +179,8 @@ output:
 - *Intrafusal* fibers
     + Sense muscle length and change in length, e.g. "stretch"
     + Also called muscle spindles
-    + Provide muscle proprioception (perception about the self, a form of enteroception)
-    - Ennervated by by primary Ia afferents (sensory output); also secondary Type II fibers
+    + Provide muscle proprioception (perception about the self, a form of interoception)
+    - Ennervated by by primary Ia afferents (sensory output from muscle); also secondary Type II fibers
     + Ennervated by gamma ($\gamma$) motor neurons (motor input)
 - *Extrafusal* fibers
     + Generate force
@@ -255,7 +255,6 @@ output:
 - But progress in an animal model targeting abnormal protein products [[@Li2019-to]](https://doi.org/10.1038/s41586-019-1722-1)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBLrY_nXU_U" frameborder="0" allowfullscreen></iframe>
-
 
 ### Clinical trial focused on gene therapy
 
