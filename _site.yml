@@ -26,6 +26,10 @@ navbar:
         href: lectures/511-perception.html
       - text: "Week 10: 2020-10-29"
         href: lectures/511-action.html
+      - text: "Week 11: 2020-11-05a"
+        href: lectures/511-cognition-language.html
+      - text: "Week 11: 2020-11-05b"
+        href: lectures/511-memory.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"
