@@ -1,7 +1,7 @@
 ---
 title: "511-fear-stress-reward"
 author: "Rick Gilmore"
-date: "2020-11-12 08:51:00"
+date: "2020-11-12 09:19:00"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -246,12 +246,16 @@ DA and GABA signaling
 <p class="caption">[[@Watabe-Uchida2017-gi]](https://doi.org/10.1146/annurev-neuro-072116-031109)</p>
 </div>
 
+>*Figure 1. Firing patterns of identified dopamine and GABA neurons in VTA. (a) VTA neurons were recorded while mice performed an odor-outcome association task in which different odors predicted different outcomes (see legend on right). Odors were presented for 1 s (gray shading), and outcomes were presented after a 1-s delay. Neuron types were identified based on their optogenetic responses. Dopamine neurons (left) showed phasic excitations to reward-predictive cues and reward. GABA neurons (right) showed sustained activation during the delay. Data from Cohen et al. (2012). (b) Reward expectation modulates dopamine neuron firing. The plot on the left shows when outcome was presented, and the right-hand plot shows when outcome was omitted. Different odors predicted reward with different probabilities. Higher reward probability increased cue responses but suppressed reward responses. Data from Tian & Uchida (2015). Also see Fiorillo et al. (2003) and Matsumoto & Hikosaka (2009a,b). (c) Reward context-dependent modulation of dopamine responses to air puff–predictive cues and air puff. The task conditions during recording differed only in the probability of reward. Dopamine neurons showed both excitation and inhibition in high-reward contexts (left) but only inhibition in low-reward contexts (right). The response in reward trials is not shown. Data from Matsumoto et al. (2016). Abbreviations: CS, conditioned stimulus; VTA, ventral tegmental area.*
+
 Expectation modulates DA signaling
 
 <div class="figure" style="text-align: center">
 <img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f2.jpeg" alt="[[@Watabe-Uchida2017-gi]](https://doi.org/10.1146/annurev-neuro-072116-031109)" width="700px" />
 <p class="caption">[[@Watabe-Uchida2017-gi]](https://doi.org/10.1146/annurev-neuro-072116-031109)</p>
 </div>
+
+>*Figure 2. Subtractive computation in dopamine neurons. (a) In one task condition (no odor, black), different amounts of reward were presented without any predictive cue. In another condition (odor A, orange), the timing of reward was predicted by an odor. (b) Prediction. Division should change the slope of the curve, whereas subtraction should cause a downward shift. (c) Average response of 40 optogenetically identified dopamine neurons. Prediction caused a subtractive shift. Data from Eshel et al. (2015). (d) Three example neurons. Although individual neurons exhibited diversity with respect to response magnitudes, their response functions were scaled versions of one another. Data from Eshel et al. (2016).*
 
 DA network
 
