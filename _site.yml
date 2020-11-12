@@ -30,6 +30,8 @@ navbar:
         href: lectures/511-cognition-language.html
       - text: "Week 11: 2020-11-05b"
         href: lectures/511-memory.html
+      - text: "Week 12: 2020-11-12"
+        href: lectures/511-fear-stress-reward.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"
