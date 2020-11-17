@@ -32,6 +32,10 @@ navbar:
         href: lectures/511-memory.html
       - text: "Week 12: 2020-11-12"
         href: lectures/511-fear-stress-reward.html
+      - text: "Week 13: 2020-11-19a"
+        href: lectures/511-affective-disorders.html
+      - text: "Week 13: 2020-11-19b"
+        href: lectures/511-schizophrenia.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"
