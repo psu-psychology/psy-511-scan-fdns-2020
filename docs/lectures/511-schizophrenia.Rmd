@@ -169,6 +169,8 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp")
 ```
 
+>(a) Fractional anisotropy (FA) differences between schizophrenia patients and healthy controls for 25 white matter (WM) regions representing major fasciculi. Gradient bar indicates Cohen’s d effect sizes after meta-analysis. (b) Cohen’s d effect sizes after meta-analysis, sorted in increasing magnitude of Cohen’s d effect sizes across 29 cohorts for FA differences in schizophrenia patients (N=1963) versus healthy controls (N=2359), after including age, sex, age × sex, age2 and age2 × sex as covariates. Error bars represent 95% confidence intervals. Significant regions after adjusting for multiple regions tested (P<0.05/25=0.002) are highlighted in orange. (c) Forest plot of effect sizes for 29 cohorts. Interactive three-dimensional (3D) visualization of the results is available at www.enigma-viewer.org.
+
 - White matter loss over age
 
 ```{r, fig.cap="[[@Kochunov2016-cu]](https://doi.org/10.1002/hbm.23336)"}
