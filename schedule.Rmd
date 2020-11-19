@@ -183,7 +183,7 @@ title: "Schedule"
     + Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The neurobiology of postpartum anxiety and depression. *Trends in Neurosciences*, *40*(2), 106–120. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.11.009>.
     + Namkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. *Trends in Neurosciences*, *40*(4), 200–207. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.02.002>.
     + Volk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. *Annual Review of Neuroscience*, *38*, 127–149. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071714-033821>.
-+ **Quiz 3** distributed. Due at start of class on **Thursday, December 3, 2019**.
++ [**Quiz 3**](quiz/quiz-03/psy-511.001-20-quiz-03.docx) distributed. Due at start of class on **Thursday, December 3, 2019**.
 
 ---
 
@@ -200,7 +200,8 @@ title: "Schedule"
 - Read/Watch
     + Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical analysis of structural and functional systems. *Nature Reviews Neuroscience*, *10*(3), 186–198. <https://doi.org/10.1038/nrn2575>.
     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-014030>.
-    + Jonas, E., & Kording, K. P. (2017). Could a neuroscientist understand a microprocessor? PLoS Computational Biology, 13(1), e1005268. <https://doi.org/10.1371/journal.pcbi.1005268>.
+    + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185
+    + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016
 + **Quiz 3** due.
 
 ---
@@ -213,7 +214,7 @@ title: "Schedule"
     - Reproducibility in neuroscience
 - Readings
     - Kass, R. (2020). Exaggerated Claims Undermine Science by Ignoring the Scientific Method. <https://youtu.be/PwCyvSDkUCY>
-    - Botvinik-Nezer, R., et al. (2020). "Variability in the analysis of a single neuroimaging dataset by many teams." Nature 582(7810): 84-88. <https://doi.org/10.1038/s41586-020-2314-9>.
+    - Botvinik-Nezer, R., et al. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. *Nature*, *582*(7810): 84-88. <https://doi.org/10.1038/s41586-020-2314-9>.
     - Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. Retrieved from <https://dx.doi.org/10.1111/nyas.13325>.
     - Gorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. *PLoS Biology*, *14*(7), e1002506. Retrieved October 2, 2016, from <https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506>.
 

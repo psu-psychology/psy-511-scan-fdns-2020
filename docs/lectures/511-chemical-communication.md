@@ -2,7 +2,7 @@
 title: "Chemical communication"
 subtitle: "PSY 511"
 author: "Rick Gilmore"
-date: "2020-10-08 07:43:06"
+date: "2020-11-18 09:30:15"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -182,7 +182,9 @@ output:
 
 - Primary inhibitory NT in CNS
 - Excitatory in developing CNS, [Cl-] in >> [Cl-] out
-- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+- Binding sites for benzodiazepines (BZD; e.g., Valium), barbiturates, ethanol, etc.
+    - BZD affect subset of GABA-A receptors
+    - Increase total Cl- influx
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
@@ -346,6 +348,7 @@ Inactivated via
 - As hormone: Released by adrenal medulla
 - Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
 - Release enhanced by cortisol from adrenal cortex
+- Unusual in NOT being part of negative feedback system controlling its own release
 
 ### Serotonin (5-HT)
 

@@ -191,7 +191,9 @@ knitr::include_graphics("https://classconnection.s3.amazonaws.com/94/flashcards/
 
 - Primary inhibitory NT in CNS
 - Excitatory in developing CNS, [Cl-] in >> [Cl-] out
-- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+- Binding sites for benzodiazepines (BZD; e.g., Valium), barbiturates, ethanol, etc.
+    - BZD affect subset of GABA-A receptors
+    - Increase total Cl- influx
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
@@ -349,6 +351,7 @@ knitr::include_graphics("https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Fi
 - As hormone: Released by adrenal medulla
 - Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
 - Release enhanced by cortisol from adrenal cortex
+- Unusual in NOT being part of negative feedback system controlling its own release
 
 ### Serotonin (5-HT)
 
