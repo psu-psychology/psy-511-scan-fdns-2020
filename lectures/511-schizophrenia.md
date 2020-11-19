@@ -1,7 +1,7 @@
 ---
 title: "511-schizophrenia"
 author: "Rick Gilmore"
-date: "2020-11-17 12:29:48"
+date: "2020-11-19 15:29:50"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -150,9 +150,11 @@ output:
 - Early disturbance in brain development?
 
 <div class="figure" style="text-align: center">
-<img src="https://images.nature.com/full/nature-assets/mp/journal/v21/n4/images/mp201563f1.jpg" alt="[[@Van_Erp2015-ne]](https://doi.org/10.1038/mp.2015.63)" width="700px" />
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2015.63/MediaObjects/41380_2016_Article_BFmp201563_Fig1_HTML.jpg?as=webp" alt="[[@Van_Erp2015-ne]](https://doi.org/10.1038/mp.2015.63)" width="700px" />
 <p class="caption">[[@Van_Erp2015-ne]](https://doi.org/10.1038/mp.2015.63)</p>
 </div>
+
+>Cohen's d effect sizes±s.e. for regional brain volume differences between Individuals with schizophrenia and healthy controls. Effect sizes for all subcortical volumes depicted were corrected for sex, age and intracranial volume (ICV). The effect size for ICV was corrected for sex and age. The number of independent data points (NSz and NHV) for each region are listed in Table 1.
 
 ##### Animal model example
 
@@ -168,9 +170,11 @@ output:
 #### White matter disruption
 
 <div class="figure" style="text-align: center">
-<img src="https://media.nature.com/lw926/nature-assets/mp/journal/v23/n5/images/mp2017170f1.jpg" alt="[[@Kelly2017-lj]](https://doi.org/10.1038/mp.2017.170)" width="700px" />
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp" alt="[[@Kelly2017-lj]](https://doi.org/10.1038/mp.2017.170)" width="700px" />
 <p class="caption">[[@Kelly2017-lj]](https://doi.org/10.1038/mp.2017.170)</p>
 </div>
+
+>(a) Fractional anisotropy (FA) differences between schizophrenia patients and healthy controls for 25 white matter (WM) regions representing major fasciculi. Gradient bar indicates Cohen’s d effect sizes after meta-analysis. (b) Cohen’s d effect sizes after meta-analysis, sorted in increasing magnitude of Cohen’s d effect sizes across 29 cohorts for FA differences in schizophrenia patients (N=1963) versus healthy controls (N=2359), after including age, sex, age × sex, age2 and age2 × sex as covariates. Error bars represent 95% confidence intervals. Significant regions after adjusting for multiple regions tested (P<0.05/25=0.002) are highlighted in orange. (c) Forest plot of effect sizes for 29 cohorts. Interactive three-dimensional (3D) visualization of the results is available at www.enigma-viewer.org.
 
 - White matter loss over age
 

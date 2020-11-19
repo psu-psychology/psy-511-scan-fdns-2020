@@ -147,8 +147,10 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S092099641
 - Early disturbance in brain development?
 
 ```{r, fig.cap="[[@Van_Erp2015-ne]](https://doi.org/10.1038/mp.2015.63)"}
-knitr::include_graphics("https://images.nature.com/full/nature-assets/mp/journal/v21/n4/images/mp201563f1.jpg")
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2015.63/MediaObjects/41380_2016_Article_BFmp201563_Fig1_HTML.jpg?as=webp")
 ```
+
+>Cohen's d effect sizes±s.e. for regional brain volume differences between Individuals with schizophrenia and healthy controls. Effect sizes for all subcortical volumes depicted were corrected for sex, age and intracranial volume (ICV). The effect size for ICV was corrected for sex and age. The number of independent data points (NSz and NHV) for each region are listed in Table 1.
 
 ##### Animal model example
 
@@ -164,7 +166,7 @@ knitr::include_graphics("https://images.nature.com/full/nature-assets/mp/journal
 #### White matter disruption
 
 ```{r, fig.cap="[[@Kelly2017-lj]](https://doi.org/10.1038/mp.2017.170)"}
-knitr::include_graphics("https://media.nature.com/lw926/nature-assets/mp/journal/v23/n5/images/mp2017170f1.jpg")
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp")
 ```
 
 - White matter loss over age
