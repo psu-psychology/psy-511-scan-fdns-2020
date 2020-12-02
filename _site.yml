@@ -36,6 +36,8 @@ navbar:
         href: lectures/511-affective-disorders.html
       - text: "Week 13: 2020-11-19b"
         href: lectures/511-schizophrenia.html
+      - text: "Week 14: 2020-12-03"
+        href: lectures/511-networks.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Policies"
