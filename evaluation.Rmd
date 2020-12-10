@@ -41,7 +41,7 @@ Students have one opportunity to re-do an assignment if they do not initially re
 
 ## Paper
 
-Please write a critical review in the style of a [Behavioral and Brain Sciences (BBS)]https://www.cambridge.org/core/journals/behavioral-and-brain-sciences) commentary.
+Please write a critical review in the style of a [Behavioral and Brain Sciences (BBS)](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences) commentary.
 The target of your review could be a published article in BBS or an article published in another journal.
 Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries.
 Typically, a BBS commentary is [restricted to 1,000 words](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/information/instructions-contributors), but you have latitude to write up to 2,500 words. 
