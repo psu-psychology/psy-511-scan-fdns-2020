@@ -106,7 +106,7 @@ knitr::include_graphics("img/raichle-2015-fig-2.png")
 
 - Components of DMN
     - Ventral medial prefrontal cortex
-    - Dorsal medial prefronta cortex
+    - Dorsal medial prefrontal cortex
     - Posterior cingulate cortex + precuneus & lateral parietal
 - DMN found in non-human animals
 - DMN found under anesthesia

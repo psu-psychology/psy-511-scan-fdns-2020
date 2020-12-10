@@ -1,7 +1,7 @@
 ---
 title: "511-networks"
 author: "Rick Gilmore"
-date: "2020-12-02 09:38:59"
+date: "2020-12-10 10:23:33"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -108,7 +108,7 @@ Figure 2
 
 - Components of DMN
     - Ventral medial prefrontal cortex
-    - Dorsal medial prefronta cortex
+    - Dorsal medial prefrontal cortex
     - Posterior cingulate cortex + precuneus & lateral parietal
 - DMN found in non-human animals
 - DMN found under anesthesia

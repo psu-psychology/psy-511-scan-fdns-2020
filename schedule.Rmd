@@ -200,6 +200,9 @@ title: "Schedule"
 - Read/Watch
     + Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical analysis of structural and functional systems. *Nature Reviews Neuroscience*, *10*(3), 186–198. <https://doi.org/10.1038/nrn2575>.
     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-014030>.
+<!-- 
+    + Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences of the United States of America, 98(2), 676–682. https://doi.org/10.1073/pnas.98.2.676 
+-->
     + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185
     + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016
 + **Quiz 3** due.
